@@ -1,0 +1,9 @@
+Package: com.p1en.igx
+Name: IGX
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A simple tweak to save Instagram media
+Maintainer: p1en
+Author: p1en
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
